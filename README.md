@@ -1,5 +1,5 @@
 <img  heigth=180  src="https://github-readme-stats.vercel.app/api?username=BryamMonroe&show_icons=true&theme=merko"/>
-<img  heigth=180  src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact"/>
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact"/>
 
  
 <div style="display: inline_block"><br>
