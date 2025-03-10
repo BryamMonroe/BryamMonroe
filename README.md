@@ -2,8 +2,6 @@
 ### Mais sobre mim
 Olá me chamo Bryam Luka Monroe, tenho 19 anose sou natural de São paulo. Atualmente estou cursando Analíse e Desenvolvimento de Sistemas na FIAP, estudo tambem na Alura aonde possuí o maior ecossistema Tech do Brasil, sempre diversificando entre cursos focados em Linguagens de programação entre cursos com Inovaçao & Gestão e Inteligência artificial.
 
-### Foco
-
 ### Estatísticas
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BryamMonroe&show_icons=true&theme=radical)
