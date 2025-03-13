@@ -15,14 +15,9 @@ Olá me chamo Bryam Luka Monroe, tenho 19 anos, sou natural de São paulo. Atual
 ##
 
 ### Estatísticas
-<p>
-  <img   
-   align="left"
-   height="200"
-   style="padding-right: 10px;"
-  
-    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BryamMonroe&show_icons=true&theme=radical)
-    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut&theme=radical)
-    
-  </p>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BryamMonroe&show_icons=true&theme=radical)
+
+
 
