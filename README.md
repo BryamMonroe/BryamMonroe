@@ -2,8 +2,8 @@
 ### Mais sobre mim
 Olá me chamo Bryam Luka Monroe Rodrigues , tenho 19 anos, sou natural de São paulo. Atualmente estou cursando Analíse e Desenvolvimento de Sistemas na FIAP, estudo tambem na Alura aonde possuí o maior ecossistema Tech do Brasil, sempre diversificando entre cursos focados em Linguagens de programação entre cursos com Inovaçao & Gestão e Inteligência artificial.
 <div>
-    <a href ="" target="_blank" ><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white> </a>  
-    <a href ="https://www.linkedin.com/in/bryam-m-42b82b22a" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white> </a>
+    <a href ="" target="_blank" ><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"> </a>  
+    <a href ="https://www.linkedin.com/in/bryam-m-42b82b22a" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a>
     <a href ="mailto:Bryamlukamonroe@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
 
