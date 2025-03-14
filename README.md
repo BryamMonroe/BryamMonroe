@@ -1,6 +1,6 @@
 **` 💻 Desenvolvedor Junior`**
 ### Mais sobre mim
-Olá me chamo Bryam Luka Monroe, tenho 19 anos, sou natural de São paulo. Atualmente estou cursando Analíse e Desenvolvimento de Sistemas na FIAP, estudo tambem na Alura aonde possuí o maior ecossistema Tech do Brasil, sempre diversificando entre cursos focados em Linguagens de programação entre cursos com Inovaçao & Gestão e Inteligência artificial.
+Olá me chamo Bryam Luka Monroe Rodrigues , tenho 19 anos, sou natural de São paulo. Atualmente estou cursando Analíse e Desenvolvimento de Sistemas na FIAP, estudo tambem na Alura aonde possuí o maior ecossistema Tech do Brasil, sempre diversificando entre cursos focados em Linguagens de programação entre cursos com Inovaçao & Gestão e Inteligência artificial.
 
 ### 📚 Linguagens e Tecnologias
 <div style="display: inline_block"><br>
