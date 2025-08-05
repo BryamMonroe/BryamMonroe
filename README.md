@@ -21,11 +21,11 @@ const goals = {
 };
 ``` 
 
-<div align="center">
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut&theme=radical)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BryamMonroe&show_icons=true&theme=radical)
-<div align="center">
-    
+
+ 
 ##
     
 <div align="center" style="display: inline_block"><br>
@@ -71,6 +71,8 @@ const goals = {
 <img align="center" alt="Bryam-PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain.svg">
           
 </div>
+
+
 
 <div align = "center" >
     <a href ="https://www.linkedin.com/in/bryam-m-42b82b22a" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a>
