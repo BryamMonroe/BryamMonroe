@@ -10,14 +10,11 @@ Olá me chamo Bryam Luka Monroe Rodrigues , tenho 19 anos, sou natural de São p
 </h4>
 
 
-```javascript
-<div>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=11&letterSpacing=+-1px;&duration=1000&pause=1000&color=19B5FF&background=FFFFFF00&vCenter=true&multiline=true&width=800&height=90&separator=%3C&lines=const+Bryam+monroe+%3D+%7B%3Cgraduating%3A+%22Analysis+and+Development+Systems+at+FIAP-SP%22%3C%7D;" alt="Typing SVG" /></a>
+
+<div><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&letterSpacing=+-1px;&duration=1000&pause=1000&color=0556AE&background=00080B&vCenter=true&multiline=true&width=600&height=90&separator=%3C&lines=const+Bryam+monroe+%3D+%7B%3Cgraduating%3A+%22Analysis+and+Development+Systems+at+FIAP-SP%22%3C%7D;" alt="Typing SVG" /></a>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&letterSpacing=+-1px;&duration=1000&pause=1000&color=0556AE&background=00080B&vCenter=true&multiline=true&width=600&height=90&separator=%3C&lines=const+devLevel+%3D+%7B%3C++description%3A+%22Desenvolvedor+Junior.%22%3C%7D;" alt="Typing SVG" /></a>
 </div>
-<div>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=11&letterSpacing=+-1px;&duration=1000&pause=1000&color=19B5FF&background=FFFFFF00&vCenter=true&multiline=true&width=800&height=90&separator=%3C&lines=const++devLevel+%3D+%7B%3Cdescription%3A+%22Desenvolvedor+Junior.%22%3C%7D;" alt="Typing SVG" /></a>
-</div>
-```
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut&theme=holi)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BryamMonroe&show_icons=true&theme=holi)
