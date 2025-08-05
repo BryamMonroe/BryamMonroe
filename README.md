@@ -11,8 +11,8 @@ Olá me chamo Bryam Luka Monroe Rodrigues , tenho 19 anos, sou natural de São p
 
 
 
-<div><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&letterSpacing=+-1px;&duration=1000&pause=1000&color=0556AE&background=00080B&vCenter=true&multiline=true&width=600&height=90&separator=%3C&lines=const+Bryam+monroe+%3D+%7B%3Cgraduating%3A+%22Analysis+and+Development+Systems+at+FIAP-SP%22%3C%7D;" alt="Typing SVG" /></a>
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&letterSpacing=+-1px;&duration=1000&pause=1000&color=0556AE&background=00080B&vCenter=true&multiline=true&width=600&height=90&separator=%3C&lines=const+devLevel+%3D+%7B%3C++description%3A+%22Desenvolvedor+Junior.%22%3C%7D;" alt="Typing SVG" /></a>
+<div align = "center">
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&letterSpacing=+-1px;&duration=1000&pause=1000&color=0556AE&background=00080B&center=true&vCenter=true&multiline=true&width=700&height=150&separator=%3C&lines=const+Bryam+monroe+%3D+%7B%3Cgraduating%3A+%22Analysis+and+Development+Systems+at+FIAP-SP%22%3C%7D;%3Cconst+devLevel+%3D+%7B%3C+description%3A+%22Desenvolvedor+Junior.%22%3C%7D;" alt="Typing SVG" /></a>
 </div>
 
 
