@@ -2,9 +2,13 @@
 <div align = "center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&letterSpacing=+-1px;&duration=3000&pause=2000&color=19B5FF&background=FFFFFF00&vCenter=true&multiline=true&width=800&height=90&separator=%3C&lines=public+class+LogExample+%7B+++++public+static+void+main(String%5B%5D+args)+%7B++++%3C+String+message+%3D+%22Hello%2C+World!%22;++System.out.println(message);+++++%7D+%7D+++++++" alt="Typing SVG" /></a>
 </div>
+
 ##
 <h3> About Me:</h3>
+<h4>
 Olá me chamo Bryam Luka Monroe Rodrigues , tenho 19 anos, sou natural de São paulo. Atualmente estou cursando Analíse e Desenvolvimento de Sistemas na FIAP, estudo tambem na Alura aonde possuí o maior ecossistema Tech do Brasil, sempre diversificando entre cursos focados em Linguagens de programação entre cursos com Inovaçao & Gestão e Inteligência artificial.
+</h4>
+
 
 ```javascript
 const Bryam monroe = {
@@ -16,8 +20,8 @@ const dev level = {
 };
 ``` 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut&theme=tokyonight)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BryamMonroe&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut&theme=holi)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BryamMonroe&show_icons=true&theme=holi)
  
 ##
     
