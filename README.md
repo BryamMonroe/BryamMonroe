@@ -60,7 +60,7 @@ Olá me chamo Bryam Luka Monroe Rodrigues , tenho 19 anos, sou natural de São p
 
 <img align="center" alt="Bryam-Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
         
-<img align="center" alt="Bryam-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">
+<img align="center" alt="Bryam-MysQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">
 
 <img align="center" alt="Bryam-PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain.svg">
 
