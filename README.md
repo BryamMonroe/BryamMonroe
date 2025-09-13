@@ -70,6 +70,10 @@ Olá me chamo Bryam Luka Monroe Rodrigues , tenho 19 anos, sou natural de São p
 
 ##
 
+<h5>
+Obrigado a atenção de todos ! 
+</h5>
+
 <div align = "center" >
     <a href ="https://www.linkedin.com/in/bryam-m-42b82b22a" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a>
     <a href ="mailto:Bryamlukamonroe@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
