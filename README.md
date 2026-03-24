@@ -1,8 +1,3 @@
-
-<div align = "center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&letterSpacing=+-1px;&duration=3000&pause=2000&color=19B5FF&background=FFFFFF00&vCenter=true&multiline=true&width=800&height=90&separator=%3C&lines=public+class+LogExample+%7B+++++public+static+void+main(String%5B%5D+args)+%7B++++%3C+String+message+%3D+%22Hello%2C+World!%22;++System.out.println(message);+++++%7D+%7D+++++++" alt="Typing SVG" /></a>
-</div>
-
 # Hi 👋, I'm Bryam Monroe
 
 🚀 **Junior Software Developer**  
@@ -26,14 +21,14 @@ I am graduating from **FIAP**, the largest tech education ecosystem in Brazil,
 where I am learning to program in back-end and front-end, work with relational and non-relational databases,
 create mobile apps, and learn about new technologies involving AI, IoT, and DevOps.
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="left">
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut&theme=holi"/>
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=BryamMonroe&show_icons=true&theme=holi">
 </p>
 
-# 🛠️ Tech Stacks  
+## 🛠️ Tech Stacks  
 <div align="center" style="display: inline_block"><br>
 
 <img align="center" alt="Bryam-C#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
@@ -86,7 +81,9 @@ create mobile apps, and learn about new technologies involving AI, IoT, and DevO
     <a href ="mailto:Bryamlukamonroe@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
 
----
+<div align = "center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&letterSpacing=+-1px;&duration=3000&pause=2000&color=19B5FF&background=FFFFFF00&vCenter=true&multiline=true&width=800&height=90&separator=%3C&lines=public+class+LogExample+%7B+++++public+static+void+main(String%5B%5D+args)+%7B++++%3C+String+message+%3D+%22Hello%2C+World!%22;++System.out.println(message);+++++%7D+%7D+++++++" alt="Typing SVG" /></a>
+</div>
 
 > _⭐ If you like my work, consider starring a repository  
 > 🤝 Always open to collaborations, partnerships, and cool ideas_
