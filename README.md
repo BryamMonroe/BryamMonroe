@@ -79,9 +79,10 @@ create mobile apps, and learn about new technologies involving AI, IoT, and DevO
 <div align = "center" >
     <a href ="https://www.linkedin.com/in/bryam-m-42b82b22a" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a>
     <a href ="mailto:Bryamlukamonroe@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+    <a href ="https://www.instagram.com/bryam_monroe/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </div>
 
-<div align = "center">
+<div align = "left">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&letterSpacing=+-1px;&duration=3000&pause=2000&color=19B5FF&background=FFFFFF00&vCenter=true&multiline=true&width=800&height=90&separator=%3C&lines=public+class+LogExample+%7B+++++public+static+void+main(String%5B%5D+args)+%7B++++%3C+String+message+%3D+%22Hello%2C+World!%22;++System.out.println(message);+++++%7D+%7D+++++++" alt="Typing SVG" /></a>
 </div>
 
