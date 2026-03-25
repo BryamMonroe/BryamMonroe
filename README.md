@@ -89,4 +89,10 @@ create mobile apps, and learn about new technologies involving AI, IoT, and DevO
 > _⭐ If you like my work, consider starring a repository  
 > 🤝 Always open to collaborations, partnerships, and cool ideas_
 
+<br>
+<br>
+    <!-- Language Switch -->
+  <p><a href="languages/pt.md">🇧🇷 Leia em Português</a></p>
+</div>
+
 .
