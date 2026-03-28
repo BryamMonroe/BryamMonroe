@@ -32,15 +32,15 @@ create mobile apps, and learn about new technologies involving AI, IoT, and DevO
 
 ## 🤖Visitor Counter
 <p align="left">
-  <code>┌──(root㉿bryam)-[~/github]</code><br>
-  <code>└─$ initializing visitor tracking...</code><br>
-  <code>└─$ system online ✅</code>
+  <code style="color:#00bfff">┌──(root㉿bryam)-[~/github]</code><br>
+  <code style="color:#00bfff">└─$ initializing visitor tracking...</code><br>
+  <code style="color:#00bfff">└─$ system online ✅</code>
 </p>
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=BryamMonroe&label=ACCESS+LOG&color=00ffcc&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=BryamMonroe&label=ACCESS+LOG&color=00bfff&style=for-the-badge" />
 </p>
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FFCC&center=true&vCenter=true&lines=Visitors+logged...;Monitoring+activity...;System+secured" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00BFFF&center=true&vCenter=true&lines=Monitoring+activity...;Tracking+visitors...;System+secured" />
 </p>
 
 ## 🛠️ Tech Stacks  
