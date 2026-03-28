@@ -30,6 +30,11 @@ create mobile apps, and learn about new technologies involving AI, IoT, and DevO
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=BryamMonroe&show_icons=true&theme=holi">
 </p>
 
+## 🤖Visitor Counter
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=BryamMonroe&label=Profile%20views&color=00ffcc&style=flat" />
+</p>
+
 ## 🛠️ Tech Stacks  
 <div align="center" style="display: inline_block"><br>
 
