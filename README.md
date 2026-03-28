@@ -30,19 +30,6 @@ create mobile apps, and learn about new technologies involving AI, IoT, and DevO
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=BryamMonroe&show_icons=true&theme=holi">
 </p>
 
-## 🤖Visitor Counter
-<p align="left">
-  <code style="color:#00bfff">┌──(root㉿bryam)-[~/github]</code><br>
-  <code style="color:#00bfff">└─$ initializing visitor tracking...</code><br>
-  <code style="color:#00bfff">└─$ system online ✅</code>
-</p>
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=BryamMonroe&label=ACCESS+LOG&color=00bfff&style=for-the-badge" />
-</p>
-<p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00BFFF&center=true&vCenter=true&lines=Monitoring+activity...;Tracking+visitors...;System+secured" />
-</p>
-
 ## 🛠️ Tech Stacks  
 <div align="center" style="display: inline_block"><br>
 
