@@ -91,7 +91,4 @@ create mobile apps, and learn about new technologies involving AI, IoT, and DevO
 > _⭐ If you like my work, consider starring a repository  
 > 🤝 Always open to collaborations, partnerships, and cool ideas_
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/BryamMonroe/BryamMonroe/output/github-contribution-grid-snake-dark.svg" />
-</p>
 .
