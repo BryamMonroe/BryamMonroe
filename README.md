@@ -24,8 +24,9 @@ create mobile apps, and learn about new technologies involving AI, IoT, and DevO
 ## 📊 GitHub Stats
 > _The GitHub status system is experiencing some issues; they are monitoring the situation and working on better solutions. (March 26th)
 >  Once the patch is released, it will work correctly again. Thank you for your understanding. 🤝⭐_
-
-
+![Stats](./profile/stats.svg)
+![Top Languages](./profile/top-langs.svg)
+![Pinned](./profile/pin-readme-tools-github-readme-stats.svg)
 <p align="left">
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut&theme=holi"/>
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=BryamMonroe&show_icons=true&theme=holi">
