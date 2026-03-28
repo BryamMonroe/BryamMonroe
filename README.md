@@ -26,10 +26,9 @@ create mobile apps, and learn about new technologies involving AI, IoT, and DevO
 >  Once the patch is released, it will work correctly again. Thank you for your understanding. 🤝⭐_
 
 <p align="left">
-  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=BryamMonroe&show_icons=true&theme=tokyonight" />
-  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=BryamMonroe&layout=compact&theme=tokyonight" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut&theme=holi"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=BryamMonroe&show_icons=true&theme=holi">
 </p>
-
 
 ## 🛠️ Tech Stacks  
 <div align="center" style="display: inline_block"><br>
