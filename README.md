@@ -22,6 +22,8 @@ where I am learning to program in back-end and front-end, work with relational a
 create mobile apps, and learn about new technologies involving AI, IoT, and DevOps.
 
 ## 📊 GitHub Stats
+> _The GitHub status system is experiencing some issues; they are monitoring the situation and working on better solutions. (March 26th)
+>  Once the patch is released, it will work correctly again. Thank you for your understanding. 🤝⭐_
 
 <p align="left">
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut&theme=holi"/>
