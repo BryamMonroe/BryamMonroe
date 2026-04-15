@@ -28,7 +28,7 @@ create mobile apps, and learn about new technologies involving AI, IoT, and DevO
 </p>
 
 ## 🛠️ Tech Stacks  
-<div align="center" style="display: inline_block"><br>
+<div align="left" style="display: inline_block"><br>
 
 <img align="center" alt="Bryam-C#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
 
