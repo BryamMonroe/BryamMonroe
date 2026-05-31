@@ -3,7 +3,7 @@
 🚀 **Software Developer**  
  🇧🇷  Brazil
 
-I build **scalable products** , **SaaS platforms**, and **high-performance web systems**.  
+I build **scalable products** , **platforms**, and **high-performance web systems**.  
 I’m deeply focused on **architecture, performance, clean code, and business-driven solutions**.
 
 ## 🧠 What I do
